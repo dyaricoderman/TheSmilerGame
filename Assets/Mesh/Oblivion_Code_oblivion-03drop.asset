@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Oblivion_Code_oblivion-03drop
+  m_SubMeshes:
+  - firstByte: 0
+    indexCount: 4
+    isTriStrip: 2
+    triangleCount: 2
+    firstVertex: 0
+    vertexCount: 4
+    localAABB:
+      m_Center: {x: 333.66486, y: 7.7712784, z: -158.10013}
+      m_Extent: {x: 6.387787, y: 88.322586, z: 5.4762955}
+  m_MeshCompression: 0
+  m_IndexBuffer: 0300020001000000
+  m_Skin: []
+  m_BindPose: []
+  m_VertexData:
+    m_CurrentChannels: 59
+    m_VertexCount: 4
+    m_Streams[0]:
+      channelMask: 59
+      offset: 0
+      stride: 56
+      align: 16
+    m_Streams[1]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[2]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[3]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_DataSize: 224
+    _typelessdata: 77a3a343451aa1c2ff061dc39449123ffc6b1cbdacdb513f000000000000803f8e517e3f71ee833b9b06523f0a934e3d88cd11bf000080bfff5aa84358f19fc2919323c32fc02d3f6054f9bc7bd83b3f0000803f0000803fe24c7d3f31cf8b3dcaf33b3fc706563d674b2dbf000080bff161a6430f30c042b49f18c32fc02d3f6054f9bc7bd83b3f00000000000040c00000803b0000803bb0d63b3fa18a68bc1be52dbf000080bfbd06aa433fe4bf42758421c357eb453f7416b5bc6b45223f0000803f000040c0ebda943b31cf8b3db23d223f03fa52bc59ff45bf000080bf
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BindPoses:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Colors:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+  m_LocalAABB:
+    m_Center: {x: 333.66486, y: 7.7712784, z: -158.10013}
+    m_Extent: {x: 6.387787, y: 88.322586, z: 5.4762955}
+  m_MeshUsageFlags: 0
+  m_MeshOptimized: 1

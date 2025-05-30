@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sun-CCTVCam
+  m_Compressed: 0
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.68333334
+        value: {x: 0.032117497, y: 0.0035896106, z: 1.2860925}
+        inSlope: {x: 0, y: 0, z: -2.4521165}
+        outSlope: {x: 0, y: 0, z: -2.4521165}
+        tangentMode: 0
+      - time: 1.15
+        value: {x: 0.032117497, y: 0.0035896106, z: -0.40841988}
+        inSlope: {x: 0, y: 0, z: -0.9280071}
+        outSlope: {x: 0, y: 0, z: -0.9280071}
+        tangentMode: 0
+      - time: 1.3333334
+        value: {x: 0.032117497, y: 0.0035896106, z: -0.41621855}
+        inSlope: {x: 0, y: 0, z: -0.0029804285}
+        outSlope: {x: 0, y: 0, z: -0.0029804285}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: cctvCam
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.050000004
+        value: {x: 0, y: 0.48260128, z: -0.24924397}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: cctvCam/cctv_cam
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.0666667
+        value: {x: 0, y: -0, z: 1}
+        inSlope: {x: 2.7526067E-34, y: 0, z: -11.2500105}
+        outSlope: {x: 1.2048964E-05, y: 0, z: -11.2500105}
+        tangentMode: 0
+      - time: 1.1666666
+        value: {x: 7.530631E-08, y: 0, z: -0.125}
+        inSlope: {x: -3.765304E-06, y: 0, z: -11.2500105}
+        outSlope: {x: -3.765304E-06, y: 0, z: -11.2500105}
+        tangentMode: 0
+      - time: 1.2
+        value: {x: 0, y: -0, z: -0.125}
+        inSlope: {x: 2.7526067E-34, y: 0, z: 0}
+        outSlope: {x: 1.2048964E-05, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Text
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 0.020000003}
+        inSlope: {x: 0, y: 0, z: -0.02079918}
+        outSlope: {x: 0, y: 0, z: -0.02079918}
+        tangentMode: 0
+      - time: 0.8333333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: -0.004413066}
+        outSlope: {x: 0, y: 0, z: -0.004413066}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: AR-ATLogo-warpHole
+  m_FloatCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

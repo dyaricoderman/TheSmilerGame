@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AR-ATLogoCastle
+  m_SubMeshes:
+  - firstByte: 0
+    indexCount: 11
+    isTriStrip: 2
+    triangleCount: 4
+    firstVertex: 0
+    vertexCount: 6
+    localAABB:
+      m_Center: {x: -0.012243003, y: 0.299087, z: -0.121129}
+      m_Extent: {x: 0.796553, y: 0.56341, z: 0.130368}
+  m_MeshCompression: 0
+  m_IndexBuffer: 01000300040005000200020000000000000004000200
+  m_Skin: []
+  m_BindPose: []
+  m_VertexData:
+    m_CurrentChannels: 59
+    m_VertexCount: 6
+    m_Streams[0]:
+      channelMask: 59
+      offset: 0
+      stride: 56
+      align: 16
+    m_Streams[1]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[2]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[3]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_DataSize: 336
+    _typelessdata: 410d4fbf585587be9a9949be6b1d80be2102403dbf90773f0d8d7f3f9085683b0d8d7f3f9085683b7ed677bf1712b834844180be000080bf8ac8483f585587be9a9949be6b1d803e2102403dbf90773febc4e53a9085683bebc4e53a9085683b7ed677bf0a1db8b48441803e000080bf410d4fbf9acc5c3f37c480be5cc183bec0e1293d8c26773f1e8d7f3f9b1c7e3f1e8d7f3f9b1c7e3f085d77bfb8bcd83368de83be000080bf8ac8483f9acc5c3f37c480be5cc1833ec0e1293d8c26773febc4e53a9b1c7e3febc4e53a9b1c7e3f085d77bf595dd8b368de833e000080bfdd9648bc585587be2d5f173c00000000c421373d77be7f3f0000003f9085683b0000003f9085683b000080bfd3c5e7b162f7a52f000080bfdd9648bc9acc5c3fd2540fbd0000000040a2203d96cd7f3f0000003f9b1c7e3f0000003f9b1c7e3f000080bf80818d2f3bb631ad000080bf
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BindPoses:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Colors:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+  m_LocalAABB:
+    m_Center: {x: -0.012243003, y: 0.299087, z: -0.121129}
+    m_Extent: {x: 0.796553, y: 0.56341, z: 0.130368}
+  m_MeshUsageFlags: 0
+  m_MeshOptimized: 1

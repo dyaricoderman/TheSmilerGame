@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: heartbeatAnim
+  m_Compressed: 0
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 90, y: 90, z: 90}
+        inSlope: {x: 272.1341, y: 226.99036, z: 334.80685}
+        outSlope: {x: 272.1341, y: 226.99036, z: 334.80685}
+        tangentMode: 0
+      - time: 0.06666667
+        value: {x: 112.15161, y: 106.948616, z: 112.32046}
+        inSlope: {x: 272.1341, y: 172.51263, z: 106.52945}
+        outSlope: {x: 272.1341, y: 172.51263, z: 106.52945}
+        tangentMode: 0
+      - time: 0.083333336
+        value: {x: 115.810135, y: 108.91586, z: 113.18698}
+        inSlope: {x: 159.37149, y: 56.747585, z: 0.8323398}
+        outSlope: {x: 159.37149, y: 56.747585, z: 0.8323398}
+        tangentMode: 0
+      - time: 0.1
+        value: {x: 117.21341, y: 109.12055, z: 112.46082}
+        inSlope: {x: 1.503952, y: -29.135689, z: -84.59357}
+        outSlope: {x: 1.503952, y: -29.135689, z: -84.59357}
+        tangentMode: 0
+      - time: 0.25
+        value: {x: 90, y: 90, z: 90}
+        inSlope: {x: 46.650177, y: 21.172153, z: 58.777157}
+        outSlope: {x: 46.650177, y: 21.172153, z: 58.777157}
+        tangentMode: 0
+      - time: 0.31666666
+        value: {x: 110.62698, y: 101.2769, z: 105.95348}
+        inSlope: {x: 250.97458, y: 156.14482, z: 76.14163}
+        outSlope: {x: 250.97458, y: 156.14482, z: 76.14163}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: 112.89359, y: 102.986626, z: 106.69063}
+        inSlope: {x: 0.9446498, y: 38.959866, z: 14.02368}
+        outSlope: {x: 0.9446498, y: 38.959866, z: 14.02368}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: 90, y: 90, z: 90}
+        inSlope: {x: -68.680786, y: -38.95988, z: -43.5095}
+        outSlope: {x: -68.680786, y: -38.95988, z: -43.5095}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: 90, y: 90, z: 90}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path:
+  m_FloatCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 2
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

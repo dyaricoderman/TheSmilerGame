@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: GrassCircle
+  m_SubMeshes:
+  - firstByte: 0
+    indexCount: 72
+    isTriStrip: 0
+    triangleCount: 24
+    firstVertex: 0
+    vertexCount: 17
+    localAABB:
+      m_Center: {x: 66.72625, y: -16.44443, z: -546.17285}
+      m_Extent: {x: 56.541985, y: 3.588297, z: 56.541992}
+  m_MeshCompression: 1
+  m_IndexBuffer:
+  m_Skin: []
+  m_BindPose: []
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Streams[0]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 0
+    m_Streams[1]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 0
+    m_Streams[2]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 0
+    m_Streams[3]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 51
+      m_Range: 1.25876
+      m_Start: -0.689312
+      m_Data: e0012c47ac89b4cf739760183ef97ab4cf739d2d4847ac8963d2b7334c3a3ef97ac9b3c54a308c47ac891ffed34a308c3ef97a689fe7f732d047ac8963d2b76314de3ef97ac9b3c5b55eec47ac89b4cf73ffffff3ef97ab4cf73f732d047ac8904cd2f6314de3ef97a9feb214a308c47ac8948a1134a308c3ef97a0000009d2d4847ac8904cd2f334c3a3ef97a9feb214a308c47ac89b4cf73
+      m_BitSize: 24
+    m_UV:
+      m_NumItems: 68
+      m_Range: 1
+      m_Start: 0
+      m_Data: ffffbf000080ffffff0000803c41adc4be527982da867d25000080000040000080000000c3be52c4be52867d25867d25000040000080000000000080c3be523c41ad867d257982da000080ffffbf000080ffffff3c41ad3c41ad7982da7982da000080000080b4740c984ffee7610cfe1ffe40050df24efe9d190dfe1ffeea6b0db2b4fe859b0de5a1fe906c0d3e45ff859b0d9c59ffd0060de9abff9d190d83dbff45760c8facffe7610c83dbff9a0f0ccf46ff00e00b9c59fff40e0c43b6fe00e00be5a1fec2bd0cc1fdfe
+      m_BitSize: 24
+    m_BindPoses:
+      m_NumItems: 0
+      m_Range: -Infinity
+      m_Start: Infinity
+      m_Data:
+      m_BitSize: 24
+    m_Normals:
+      m_NumItems: 34
+      m_Range: 1.5993955
+      m_Start: -0.5993956
+      m_Data: 50232e1d0ef8000000770fe078b93c1c0ef89c191c770fe085f05f1d0ef885f05f760fe09327831d0ef86ec7a3770fe0babd911d0ef80ae1bf770fe09327831c0ef86ec7a3770fe085f05f1d0ef885f05f760fe078b93c1d0ef89c191c770fe085f05fffffff
+      m_BitSize: 24
+    m_Tangents:
+      m_NumItems: 34
+      m_Range: 1.5970584
+      m_Start: -1
+      m_Data: 49060848716e937c20e39640f1060b38448a704f17567f80211600baeea1420f0021eaa2563d0a0519b7023512c5a4cb4906089b25d2937c20fffffff1060baa52b6704f178c17c021160028a89e420f00c2ac9d563d0adc7d890235121cf274000000714ba0
+      m_BitSize: 24
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 17
+      m_Data: ff0301
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 34
+      m_Data: 0150015000
+      m_BitSize: 1
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 72
+      m_Data: 2008118618848c428a31e59883d049282995965a8cadc69a73edb907c00b0e400804140429081583cc21680c24
+      m_BitSize: 5
+    m_Colors:
+      m_NumItems: 17
+      m_Data: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+      m_BitSize: 32
+  m_LocalAABB:
+    m_Center: {x: 0, y: -0.048508294, z: -0.11986399}
+    m_Extent: {x: 0.569448, y: 0.03613861, z: 0.569448}
+  m_MeshUsageFlags: 0
+  m_MeshOptimized: 1
